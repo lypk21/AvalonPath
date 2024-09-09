@@ -34,8 +34,13 @@ View the history of portal connections and predict future paths.
 5. Resource and Hideout Locator: </h3><h4 align=center>
 Locate valuable resources along your route, ensuring efficient gathering runs.
 Identify hideouts and player-owned territories within the Roads of Avalon for strategic planning.</h4>
+
 <h3 align=center>
 6. User-Friendly Interface:</h3><h4 align=center>
 Simple and intuitive design that makes navigation easy, even for new players.
 Dark and light mode options for comfortable use during long sessions.
 </h4>
+<h2 align=center>⬇️Download⬇️</h2>
+<h4 align=center>
+You can easily download AvalonPath in Releases Page
+Then feel free to launch AvalonPath.exe and use the navigator</h4>
