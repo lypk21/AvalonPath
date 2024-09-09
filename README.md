@@ -6,7 +6,7 @@
 With AlbionPath, you can easily plan your journeys, track portal timers, and avoid dead ends, making it an essential tool for gathering, PvP, and exploration in Albion's mystical Avalon network. Say goodbye to getting lost and hello to efficient and strategic travel with AlbionPath! </h4>
 <h2></h2><br><br><h2 align=center>⬇️Download⬇️</h2>
 <h4 align=center>
-You can easily download AvalonPath in Releases Page
+You can easily download AvalonPath in Releases Page <p></p>
 Then feel free to launch AvalonPath.exe and use the navigator</h4>
 <br><br>
 <h2 align=center>✨Features✨</h3>
