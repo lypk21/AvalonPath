@@ -1,2 +1,1 @@
-# AlbionPath
-AvalonPath is your essential companion for navigating the mysterious and ever-changing Roads of Avalon in Albion Online. Albion Online Avalon Portal Navigator
+<p align=center><img src='https://github.com/user-attachments/assets/c47b622e-4763-430f-9759-bec67ecf3670'></p>
